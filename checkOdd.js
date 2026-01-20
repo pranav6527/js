@@ -1,0 +1,5 @@
+const isOdd = (x) => {
+  return x % 2 !== 0;
+};
+
+console.log(isOdd(20));
